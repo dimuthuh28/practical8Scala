@@ -1,0 +1,425 @@
+2024.08.12 09:03:04 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\dimuthu harshamal\Desktop\FP\practical8' for client Visual Studio Code 1.92.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@227863fa]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@1010498c]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@227863fa]
+2024.08.12 09:03:04 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.12 09:03:06 WARN  no build target for: C:\Users\dimuthu harshamal\Desktop\FP\practical8\1.scala
+2024.08.12 09:03:06 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 12, 2024 9:03:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2024.08.12 09:03:06 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 12, 2024 9:03:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2024.08.12 09:03:06 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 09:03:10 INFO  Running List(C:\Users\dimuthu harshamal\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, C:\Users\dimuthu harshamal\Desktop\FP\practical8)
+2024.08.12 09:03:10 INFO  Attempting to connect to the build server...
+2024.08.12 09:03:10 INFO  Running BSP server List(C:\Users\dimuthu harshamal\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\dimuthu harshamal\Desktop\FP\practical8\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\dimuthu harshamal\Desktop\FP\practical8\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\dimuthu harshamal\Desktop\FP\practical8\.scala-build\ide-envs.json, C:\Users\dimuthu harshamal\Desktop\FP\practical8)
+2024.08.12 09:03:11 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dimuthu harshamal\Desktop\FP\practical8\.metals\bsp.trace.json or C:\Users\dimuthu harshamal\AppData\Local\scalameta\metals\cache\bsp.trace.json
+Aug 12, 2024 9:03:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+2024.08.12 09:03:11 WARN  no build target for: C:\Users\dimuthu harshamal\Desktop\FP\practical8\1.scala
+2024.08.12 09:03:17 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 09:03:18 INFO  BSP server: Starting compilation server
+2024.08.12 09:03:19 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 09:03:26 INFO  time: Connected to build server in 15s
+2024.08.12 09:03:26 INFO  Connected to Build server: scala-cli v1.3.2
+2024.08.12 09:03:27 INFO  time: Imported build in 0.76s
+2024.08.12 09:03:27 INFO  running doctor check
+2024.08.12 09:03:27 INFO  java targets: practical8_2e8538a684-test, practical8_2e8538a684
+2024.08.12 09:03:28 INFO  compiling practical8_2e8538a684 (1 scala source)
+2024.08.12 09:03:41 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.12 09:03:43 INFO  time: compiled practical8_2e8538a684 in 14s
+2024.08.12 09:03:48 INFO  time: indexed workspace in 21s
+2024.08.12 09:11:09 INFO  compiling practical8_2e8538a684 (1 scala source)
+2024.08.12 09:11:10 INFO  time: compiled practical8_2e8538a684 in 1.5s
+2024.08.12 09:12:01 INFO  compiling practical8_2e8538a684 (1 scala source)
+2024.08.12 09:12:01 INFO  time: compiled practical8_2e8538a684 in 0.45s
+2024.08.12 09:12:04 INFO  compiling practical8_2e8538a684 (1 scala source)
+2024.08.12 09:12:04 INFO  time: compiled practical8_2e8538a684 in 0.23s
+2024.08.12 09:12:09 INFO  compiling practical8_2e8538a684 (1 scala source)
+2024.08.12 09:12:09 INFO  time: compiled practical8_2e8538a684 in 0.2s
+2024.08.12 09:12:10 INFO  compiling practical8_2e8538a684 (1 scala source)
+2024.08.12 09:12:10 INFO  time: compiled practical8_2e8538a684 in 0.17s
+2024.08.12 09:12:14 INFO  compiling practical8_2e8538a684 (1 scala source)
+2024.08.12 09:12:14 INFO  time: compiled practical8_2e8538a684 in 0.15s
+2024.08.12 09:12:16 INFO  compiling practical8_2e8538a684 (1 scala source)
+2024.08.12 09:12:16 INFO  time: compiled practical8_2e8538a684 in 0.17s
+2024.08.12 09:12:20 INFO  compiling practical8_2e8538a684 (1 scala source)
+2024.08.12 09:12:21 INFO  time: compiled practical8_2e8538a684 in 1.51s
+2024.08.12 09:19:53 INFO  compiling practical8_2e8538a684 (1 scala source)
+2024.08.12 09:19:55 INFO  time: compiled practical8_2e8538a684 in 2.42s
+2024.08.12 09:19:59 INFO  compiling practical8_2e8538a684 (1 scala source)
+2024.08.12 09:20:01 INFO  time: compiled practical8_2e8538a684 in 1.75s
+2024.08.12 09:20:01 WARN  Could not load snapshot text for C:\Users\dimuthu harshamal\Desktop\FP\practical8\1.scala
+2024.08.12 09:20:02 WARN  Could not load snapshot text for C:\Users\dimuthu harshamal\Desktop\FP\practical8\1.scala
+2024.08.12 09:20:03 WARN  Could not load snapshot text for C:\Users\dimuthu harshamal\Desktop\FP\practical8\1.scala
+2024.08.12 09:24:44 WARN  Could not load snapshot text for C:\Users\dimuthu harshamal\Desktop\FP\practical8\1.scala
+2024.08.12 09:27:57 WARN  Could not load snapshot text for C:\Users\dimuthu harshamal\Desktop\FP\practical8\1.scala
+2024.08.12 09:28:12 WARN  Could not load snapshot text for C:\Users\dimuthu harshamal\Desktop\FP\practical8\1.scala
+2024.08.12 09:28:14 INFO  compiling practical8_2e8538a684 (1 scala source)
+2024.08.12 09:28:15 INFO  time: compiled practical8_2e8538a684 in 1.15s
+Aug 12, 2024 9:33:18 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.08.12 09:37:50 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 09:37:51 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 09:37:51 WARN  Could not find semantic tokens for: file:///C:/Users/dimuthu%20harshamal/Desktop/FP/practical8/2.scala
+2024.08.12 09:37:51 INFO  compiling practical8_2e8538a684 (1 scala source)
+2024.08.12 09:37:51 INFO  time: compiled practical8_2e8538a684 in 0.17s
+2024.08.12 09:37:51 INFO  time: Imported build in 0.34s
+2024.08.12 09:37:51 INFO  running doctor check
+2024.08.12 09:37:51 INFO  java targets: practical8_2e8538a684-test, practical8_2e8538a684
+2024.08.12 09:37:54 INFO  compiling practical8_2e8538a684 (1 scala source)
+2024.08.12 09:37:55 INFO  time: compiled practical8_2e8538a684 in 1.02s
+2024.08.12 09:37:55 INFO  time: indexed workspace in 3.44s
+2024.08.12 09:51:01 INFO  Shutting down server
+2024.08.12 09:51:01 INFO  shutting down Metals
+2024.08.12 09:51:01 INFO  Shut down connection with build server.
+2024.08.12 09:51:01 INFO  Exiting server
+2024.08.12 15:10:29 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\dimuthu harshamal\Desktop\FP\practical8' for client Visual Studio Code 1.92.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@7499fea]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@4345ce1c]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@7499fea]
+2024.08.12 15:10:31 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.12 15:10:34 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:36 INFO  Attempting to connect to the build server...
+2024.08.12 15:10:36 INFO  Running BSP server List(C:\Users\dimuthu harshamal\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\dimuthu harshamal\Desktop\FP\practical8\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\dimuthu harshamal\Desktop\FP\practical8\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\dimuthu harshamal\Desktop\FP\practical8\.scala-build\ide-envs.json, C:\Users\dimuthu harshamal\Desktop\FP\practical8)
+2024.08.12 15:10:36 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dimuthu harshamal\Desktop\FP\practical8\.metals\bsp.trace.json or C:\Users\dimuthu harshamal\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.12 15:10:44 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 12, 2024 3:10:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Aug 12, 2024 3:10:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Aug 12, 2024 3:10:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.08.12 15:10:45 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 12, 2024 3:10:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+Aug 12, 2024 3:10:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+Aug 12, 2024 3:10:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+2024.08.12 15:10:45 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:45 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 12, 2024 3:10:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+2024.08.12 15:10:45 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:45 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:45 WARN  no build target for: C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala
+2024.08.12 15:10:45 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 12, 2024 3:10:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+Aug 12, 2024 3:10:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32
+Aug 12, 2024 3:10:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 31
+Aug 12, 2024 3:10:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30
+2024.08.12 15:10:45 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 12, 2024 3:10:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36
+Aug 12, 2024 3:10:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 35
+2024.08.12 15:10:46 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 12, 2024 3:10:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 42
+Aug 12, 2024 3:10:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 43
+Aug 12, 2024 3:10:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26
+Aug 12, 2024 3:10:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 45
+2024.08.12 15:10:46 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 12, 2024 3:10:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 48
+Aug 12, 2024 3:10:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 53
+Aug 12, 2024 3:10:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 50
+2024.08.12 15:10:46 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 12, 2024 3:10:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 54
+Aug 12, 2024 3:10:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 55
+2024.08.12 15:10:46 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:47 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:47 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:47 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:47 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:47 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 12, 2024 3:10:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 72
+2024.08.12 15:10:47 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:47 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:48 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:48 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:48 WARN  no build target for: C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala
+2024.08.12 15:10:48 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 12, 2024 3:10:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 85
+2024.08.12 15:10:48 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:48 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:48 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:48 WARN  no build target for: C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala
+Aug 12, 2024 3:10:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 92
+2024.08.12 15:10:48 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:48 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:50 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:50 INFO  BSP server: Starting compilation server
+2024.08.12 15:10:51 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:51 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:51 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:51 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:52 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:52 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:53 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:53 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:53 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:53 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:54 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:53 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:54 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:54 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:54 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:54 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:56 WARN  no build target for: C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala
+2024.08.12 15:10:56 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:56 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:56 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:56 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:56 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:56 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:57 WARN  no build target for: C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala
+2024.08.12 15:10:57 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:10:57 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:11:02 INFO  time: Connected to build server in 25s
+2024.08.12 15:11:02 INFO  Connected to Build server: scala-cli v1.3.2
+2024.08.12 15:11:02 INFO  time: Imported build in 0.32s
+2024.08.12 15:11:02 INFO  running doctor check
+2024.08.12 15:11:02 INFO  java targets: practical8_2e8538a684-test, practical8_2e8538a684
+2024.08.12 15:11:06 INFO  compiling practical8_2e8538a684 (1 scala source)
+2024.08.12 15:11:09 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.12 15:11:11 INFO  time: indexed workspace in 8.38s
+2024.08.12 15:11:12 INFO  time: compiled practical8_2e8538a684 in 6.43s
+2024.08.12 15:11:12 INFO  compiling practical8_2e8538a684 (1 scala source)
+2024.08.12 15:11:15 INFO  time: compiled practical8_2e8538a684 in 1.84s
+2024.08.12 15:11:15 INFO  compiling practical8_2e8538a684 (1 scala source)
+2024.08.12 15:11:16 INFO  time: compiled practical8_2e8538a684 in 0.76s
+2024.08.12 15:11:16 INFO  compiling practical8_2e8538a684 (1 scala source)
+2024.08.12 15:11:16 INFO  time: compiled practical8_2e8538a684 in 0.54s
+2024.08.12 15:11:18 INFO  compiling practical8_2e8538a684 (1 scala source)
+2024.08.12 15:11:18 INFO  time: compiled practical8_2e8538a684 in 0.42s
+2024.08.12 15:11:19 INFO  compiling practical8_2e8538a684 (1 scala source)
+2024.08.12 15:11:19 INFO  time: compiled practical8_2e8538a684 in 0.8s
+2024.08.12 15:11:30 INFO  Shutting down server
+2024.08.12 15:11:30 INFO  shutting down Metals
+2024.08.12 15:11:30 INFO  Shut down connection with build server.
+2024.08.12 15:11:30 INFO  Exiting server
+2024.08.12 15:13:56 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\dimuthu harshamal\Desktop\FP\practical8' for client Visual Studio Code 1.92.1.
+2024.08.12 15:13:56 INFO  time: initialize in 0.23s
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@fd19c22]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@6184a986]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@fd19c22]
+2024.08.12 15:13:59 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.12 15:13:59 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:14:02 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:14:04 INFO  Attempting to connect to the build server...
+2024.08.12 15:14:04 INFO  Running BSP server List(C:\Users\dimuthu harshamal\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\dimuthu harshamal\Desktop\FP\practical8\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\dimuthu harshamal\Desktop\FP\practical8\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\dimuthu harshamal\Desktop\FP\practical8\.scala-build\ide-envs.json, C:\Users\dimuthu harshamal\Desktop\FP\practical8)
+2024.08.12 15:14:04 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dimuthu harshamal\Desktop\FP\practical8\.metals\bsp.trace.json or C:\Users\dimuthu harshamal\AppData\Local\scalameta\metals\cache\bsp.trace.json
+Aug 12, 2024 3:14:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2024.08.12 15:14:06 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:14:06 WARN  no build target for: C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala
+Aug 12, 2024 3:14:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+Aug 12, 2024 3:14:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Aug 12, 2024 3:14:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Aug 12, 2024 3:14:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2024.08.12 15:14:06 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:14:07 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 12, 2024 3:14:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+Aug 12, 2024 3:14:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+2024.08.12 15:14:08 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 12, 2024 3:14:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+2024.08.12 15:14:07 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 12, 2024 3:14:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21
+Aug 12, 2024 3:14:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23
+Aug 12, 2024 3:14:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26
+2024.08.12 15:14:07 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 12, 2024 3:14:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 31
+2024.08.12 15:14:07 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:14:07 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 12, 2024 3:14:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22
+2024.08.12 15:14:08 WARN  no build target for: C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala
+Aug 12, 2024 3:14:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38
+Aug 12, 2024 3:14:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 42
+Aug 12, 2024 3:14:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40
+Aug 12, 2024 3:14:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41
+2024.08.12 15:14:09 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 12, 2024 3:14:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 44
+2024.08.12 15:14:12 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 12, 2024 3:14:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 53
+2024.08.12 15:14:18 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:14:20 INFO  BSP server: Starting compilation server
+2024.08.12 15:14:28 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:14:29 WARN  no build target for: C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala
+2024.08.12 15:14:29 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:14:30 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:14:31 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:14:32 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:14:34 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 12, 2024 3:14:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 80
+2024.08.12 15:14:36 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:14:36 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:14:36 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 12, 2024 3:14:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 89
+2024.08.12 15:14:36 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:14:36 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:14:36 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 12, 2024 3:14:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 93
+2024.08.12 15:14:37 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:14:37 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:14:37 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:14:38 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:14:38 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:14:39 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:14:40 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:14:40 WARN  no build target for: C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala
+2024.08.12 15:14:40 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:14:40 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 12, 2024 3:14:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 115
+2024.08.12 15:14:41 WARN  no build target for: C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala
+2024.08.12 15:14:41 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:14:41 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:14:41 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 12, 2024 3:14:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 127
+2024.08.12 15:14:43 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\11.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:14:44 INFO  time: Connected to build server in 40s
+2024.08.12 15:14:44 INFO  Connected to Build server: scala-cli v1.3.2
+2024.08.12 15:14:44 INFO  time: Imported build in 0.28s
+2024.08.12 15:14:44 INFO  running doctor check
+2024.08.12 15:14:44 INFO  java targets: practical8_2e8538a684-test, practical8_2e8538a684
+Aug 12, 2024 3:14:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 145
+Aug 12, 2024 3:14:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 147
+2024.08.12 15:14:47 INFO  compiling practical8_2e8538a684 (1 scala source)
+2024.08.12 15:14:51 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.12 15:14:53 INFO  time: indexed workspace in 9.55s
+Aug 12, 2024 3:15:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 220
+Aug 12, 2024 3:15:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 250
+2024.08.12 15:15:07 INFO  time: compiled practical8_2e8538a684 in 19s
+2024.08.12 15:15:07 INFO  compiling practical8_2e8538a684 (1 scala source)
+2024.08.12 15:15:09 INFO  time: compiled practical8_2e8538a684 in 2s
+Aug 12, 2024 3:15:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 308
+Aug 12, 2024 3:15:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 353
+Aug 12, 2024 3:15:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 378
+Aug 12, 2024 3:15:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 393
+Aug 12, 2024 3:15:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 409
+Aug 12, 2024 3:16:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 425
+2024.08.12 15:19:09 INFO  compiling practical8_2e8538a684 (1 scala source)
+2024.08.12 15:19:09 INFO  Deduplicating compilation of practical8_2e8538a684 from bsp client 'scala-cli 1.3.2' (since 4m 29.007s)
+2024.08.12 15:19:09 INFO  compiling practical8_2e8538a684 (1 scala source)
+2024.08.12 15:19:10 INFO  time: compiled practical8_2e8538a684 in 1.28s
+2024.08.12 15:19:10 INFO  compiling practical8_2e8538a684 (1 scala source)
+2024.08.12 15:19:13 INFO  time: compiled practical8_2e8538a684 in 1.61s
+2024.08.12 15:19:13 INFO  compiling practical8_2e8538a684 (1 scala source)
+2024.08.12 15:19:14 INFO  time: compiled practical8_2e8538a684 in 0.75s
+2024.08.12 15:54:02 INFO  compiling practical8_2e8538a684 (3 scala sources)
+2024.08.12 15:54:04 INFO  time: compiled practical8_2e8538a684 in 1.5s
+2024.08.12 15:54:04 INFO  compiling practical8_2e8538a684 (1 scala source)
+2024.08.12 15:54:04 INFO  time: compiled practical8_2e8538a684 in 0.61s
+2024.08.12 15:54:59 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\22.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:54:59 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\22.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:55:00 INFO  compiling practical8_2e8538a684 (2 scala sources)
+2024.08.12 15:55:00 WARN  Could not find semantic tokens for: file:///C:/Users/dimuthu%20harshamal/Desktop/FP/practical8/22.scala
+2024.08.12 15:55:00 INFO  time: compiled practical8_2e8538a684 in 0.85s
+2024.08.12 15:55:01 INFO  no build target found for C:\Users\dimuthu harshamal\Desktop\FP\practical8\22.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 15:55:01 INFO  time: Imported build in 1.3s
+2024.08.12 15:55:01 INFO  running doctor check
+2024.08.12 15:55:01 INFO  java targets: practical8_2e8538a684-test, practical8_2e8538a684
+2024.08.12 15:55:01 INFO  compiling practical8_2e8538a684 (2 scala sources)
+2024.08.12 15:55:01 INFO  time: compiled practical8_2e8538a684 in 0.83s
+2024.08.12 15:55:02 INFO  compiling practical8_2e8538a684 (2 scala sources)
+2024.08.12 15:55:02 INFO  time: compiled practical8_2e8538a684 in 0.8s
+2024.08.12 15:55:04 INFO  time: indexed workspace in 2.95s
+2024.08.12 15:55:04 INFO  compiling practical8_2e8538a684 (2 scala sources)
+2024.08.12 15:55:04 INFO  time: compiled practical8_2e8538a684 in 0.8s
+2024.08.12 15:55:05 INFO  compiling practical8_2e8538a684 (2 scala sources)
+2024.08.12 15:55:05 INFO  time: compiled practical8_2e8538a684 in 0.39s
+2024.08.12 15:55:08 INFO  compiling practical8_2e8538a684 (2 scala sources)
+2024.08.12 15:55:08 INFO  time: compiled practical8_2e8538a684 in 0.39s
+2024.08.12 15:55:11 INFO  compiling practical8_2e8538a684 (2 scala sources)
+2024.08.12 15:55:11 INFO  time: compiled practical8_2e8538a684 in 0.41s
+2024.08.12 15:55:13 INFO  compiling practical8_2e8538a684 (2 scala sources)
+Aug 12, 2024 3:55:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 692
+2024.08.12 15:55:13 INFO  time: compiled practical8_2e8538a684 in 0.47s
+2024.08.12 15:55:14 INFO  compiling practical8_2e8538a684 (2 scala sources)
+2024.08.12 15:55:14 INFO  time: compiled practical8_2e8538a684 in 0.64s
+2024.08.12 15:55:19 INFO  compiling practical8_2e8538a684 (2 scala sources)
+2024.08.12 15:55:19 INFO  time: compiled practical8_2e8538a684 in 0.31s
+2024.08.12 15:55:20 INFO  compiling practical8_2e8538a684 (2 scala sources)
+2024.08.12 15:55:20 INFO  time: compiled practical8_2e8538a684 in 0.35s
+2024.08.12 15:55:22 INFO  compiling practical8_2e8538a684 (2 scala sources)
+2024.08.12 15:55:22 INFO  time: compiled practical8_2e8538a684 in 0.31s
+2024.08.12 15:55:23 INFO  compiling practical8_2e8538a684 (2 scala sources)
+2024.08.12 15:55:23 INFO  time: compiled practical8_2e8538a684 in 0.37s
+2024.08.12 15:55:26 INFO  compiling practical8_2e8538a684 (2 scala sources)
+2024.08.12 15:55:26 INFO  time: compiled practical8_2e8538a684 in 0.27s
+2024.08.12 15:56:01 INFO  compiling practical8_2e8538a684 (2 scala sources)
+2024.08.12 15:56:01 INFO  time: compiled practical8_2e8538a684 in 0.33s
+2024.08.12 15:56:06 INFO  compiling practical8_2e8538a684 (2 scala sources)
+2024.08.12 15:56:06 INFO  time: compiled practical8_2e8538a684 in 0.35s
+2024.08.12 15:56:07 INFO  compiling practical8_2e8538a684 (2 scala sources)
+2024.08.12 15:56:07 INFO  time: compiled practical8_2e8538a684 in 0.38s
+2024.08.12 15:56:19 INFO  compiling practical8_2e8538a684 (2 scala sources)
+2024.08.12 15:56:19 INFO  time: compiled practical8_2e8538a684 in 0.31s
+2024.08.12 15:56:22 INFO  compiling practical8_2e8538a684 (2 scala sources)
+2024.08.12 15:56:22 INFO  time: compiled practical8_2e8538a684 in 0.3s
+2024.08.12 15:56:25 INFO  compiling practical8_2e8538a684 (2 scala sources)
+2024.08.12 15:56:25 INFO  time: compiled practical8_2e8538a684 in 0.31s
+2024.08.12 15:56:27 INFO  compiling practical8_2e8538a684 (2 scala sources)
+2024.08.12 15:56:27 INFO  time: compiled practical8_2e8538a684 in 0.29s
+2024.08.12 15:56:31 INFO  compiling practical8_2e8538a684 (2 scala sources)
+2024.08.12 15:56:31 INFO  time: compiled practical8_2e8538a684 in 0.33s
+2024.08.12 15:56:40 INFO  Shutting down server
+2024.08.12 15:56:40 INFO  shutting down Metals
+2024.08.12 15:56:40 INFO  Shut down connection with build server.
+2024.08.12 15:56:40 INFO  Exiting server
